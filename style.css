@@ -32,3 +32,17 @@ ul{
     flex-direction: row;
     gap: 250px;
  }
+ .nav-list-link{
+   color: rgb(255, 255, 255);
+ }
+ .boximg{
+   display: flex;
+   justify-content: center;
+   margin-top: 10px;
+ }
+ .giftp{
+   display: flex;
+   margin-top: 2%;
+   margin-bottom: 2%;
+   gap: 20px;
+}
